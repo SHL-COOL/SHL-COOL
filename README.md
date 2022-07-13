@@ -8,8 +8,6 @@
 
 
 ### 语言
-主要使用
-
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
